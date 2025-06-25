@@ -99,5 +99,3 @@ Different ways to handle the invitations represent different algorithms. Big O h
 ## LogN Runtimes
 
 ## Recursive Runtimes
-
-<p style="text-align:right"><a href=https://www.linkedin.com/in/artemhushcha/ >Artem Hushcha</a></p>
