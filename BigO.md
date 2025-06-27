@@ -82,6 +82,20 @@ Different ways to handle the invitations represent different algorithms. Big O h
 
 ---
 
+## Dependency on elements number not linear
+
+### binary search vs simple search on 10 elements and 1 billion
+
+simple search 10 = 10
+binary search 10 = roughly 4
+
+simple search 1 billion = ?
+binary search 1 billion = 30
+
+### Figure
+
+O(1), O(log n), O(n), O(n log n), O(n²)
+
 ## Examples
 
 ## Add vs Multiply Complexity
