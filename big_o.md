@@ -87,10 +87,10 @@ Different ways to handle the invitations represent different algorithms. Big O h
 ### binary search vs simple search on 10 elements and 1 billion
 
 simple search 10 = 10
-binary search 10 = roughly 4
+binary search 10 = log2 10 = 3.3219280948874 roughly 3
 
-simple search 1 billion = ?
-binary search 1 billion = 30
+simple search 1 billion != 30 * 10 / 3 but = (1_000_000_000)
+binary search 1 billion = log2 1_000_000_000 = 29.897352853986 roughly 30
 
 ### Figure
 
